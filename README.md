@@ -23,10 +23,9 @@ and a photointerrupter for synchronisation
 * A bunch of M4 nuts and bolts
 
 There are two options for the control dial. The fancy version uses a
-Raspberry Pi Pico W, an accelerometer, another a rotary encoder and a
-Waveshare 1.28" round touch screen. The accelerometer is to help with dynamic
-balancing (if you build one of these you'll be spending a lot of time
-balancing it). The alt version is just a motor speed controller and a knob.
+Raspberry Pi Pico W, an accelerometer, another photointerrupter, a rotary encoder and a Waveshare 1.28" round touch screen. The accelerometer is to help 
+with dynamic balancing (if you build one of these you'll be spending a lot of
+time balancing it). The alt version is just a motor speed controller and a knob.
 
 The counterweights are designed to hold 1/2 oz lead sinkers
 
