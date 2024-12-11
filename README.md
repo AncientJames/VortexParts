@@ -23,9 +23,16 @@ and a photointerrupter for synchronisation
 * A bunch of M4 nuts and bolts
 
 There are two options for the control dial. The fancy version uses a
-Raspberry Pi Pico W, an accelerometer, another photointerrupter, a rotary encoder and a Waveshare 1.28" round touch screen. The accelerometer is to help 
+Raspberry Pi Pico W, an accelerometer, another photointerrupter, a rotary encoder
+and a Waveshare 1.28" round touch screen. The accelerometer is to help 
 with dynamic balancing (if you build one of these you'll be spending a lot of
 time balancing it). The alt version is just a motor speed controller and a knob.
+
+The Core has two 6mm channels to anchor the carbon fibre rods that hold the panels.
+These get narrower where they pass the toothed section for the drive belt. This is
+purely to improve the print quality on the teeth by keeping a thick wall all around
+the circumference. You need to run a 6mm drill down the length of those channels
+before you can fit the rods in.
 
 The counterweights are designed to hold 1/2 oz lead sinkers
 
